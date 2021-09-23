@@ -5,5 +5,5 @@ Created by Sedat Can Uygur
 
 [Github](https://github.com/SedatUygur) | [FreeCodeCamp](http://www.freecodecamp.com/pcengineer48) | [CodePen](http://codepen.io/SedatUygur) | [LinkedIn](https://www.linkedin.com/in/sedat-can-uygur) | [E-Mail](mailto:sedatcan_92@hotmail.com)
 
-# ShippingStatusAPI
+# Shipping Status API
 Shipping Status API using Spring Boot, JUnit and Swagger
